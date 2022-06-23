@@ -2,9 +2,7 @@
 - I'm currently learning some React.js and a bunch of different things for data science area, like (still basic) Python and some intermediate/advanced SQL. Frontend is like a hobby, though I'm really engaged about this data world. Also trying to get my Japanese language better 😅 aiming for that JLPT N2!
 - Currently #opentowork, waiting for my 'yes' 😊. 
 - Hope to see y'all soon 😁
-- 
-- Ju 💜
-- julianaotsuka@gmail.com
+- Ju | julianaotsuka@gmail.com
 
 
 <!---
